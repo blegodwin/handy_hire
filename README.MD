@@ -32,7 +32,9 @@ This is crucial for understanding potential market opportunities, user needs, an
 6. **Evaluate Challenges and Marketing Strategies:**
    - Identify challenges faced by SMEs and determine how Handy Hire can address these challenges.
    - Analyze communication channels used by enterprises to define advertising and marketing routes.
+## Tools
 
+-Excel, Macros, Python, Power BI
 
 ## Key Responsibilities
 
